@@ -1,9 +1,9 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl4VZ9Zje920d0ZNrQEKjJFUxRMylx1ATdJdoQXFIjjnYtSiPsCOGaDCgBV7HAnxWtpsKn0aOyOjqDjvoKsQaZSNTFIMfW-lJlUNZzXvi--TTqAiGPZSE8cXkOS4rMzOjxO4bIwtUaFY3hj25-e9vDVfnkwyfJSjRbc3UuXcKaTm2qM_H4u0zekZkK1DJG/s645/0_s2ivt9cecdqsXvts.gif)](https://pracandify.blogspot.com/)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg596JLP2KNbVCXTHmz8ib52diI4mKJeftQNc3_PSy7JCwveDSxhbZs02Cn3pqn4uCauNm7wjhOCttg7Mx-S8mBqd2QZlnCmTldHMI_terJKo-n6kXpEl8eW8QW4k1eh4jKDhcHZyVd2AggJR1pg9-k1cI8OcaPEj2dwbD1pW8c6D5JowZKJovsy8soaCbh/s16000/SwotboySandygt.png)](https://pracandify.blogspot.com/)
 <h1 align="center">Hey👋, I'm Swotboysandy</h1>
 <h3 align="center">A dedicated coder translating concepts into seamless digital realities through elegant and efficient code.</h3>
-
-<img align="center" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgySjQ2GcZs7-WqsK-HUhuF2FKB243hjt0DQY2ElBen-7hhj93meK3lQP1UaSqHWRBZz27z-mAzvfz_WHZW5JPT42gRcGkhtV0qMQfpv-X0tYGHuNSWzPFCdPiuzmFfQl6rAoUmAHseXXsnDnpWiOYDU-8dFXoRlMLfDkr61y2PfhbBpOh6YGWx1dNEs2n0/s320/sany.gif">
-
+<div align="center">
+<img align="center" alt="Coding" width="500" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq7WKQwsP_sqnrVc1ykpSfKKjEo6tdVF5LyXHtsJELvtk9w92Dlzyo80roGUnrxA4d50RauoKy9_XcbXPSQr1eTnHDFk6JMtBvY1RxpVb3HQVRNFHX0hQpt6l6d8fBVSstPOpGysF89PSDLODhkOnhR9rREq5uU7YQFdR-hby7fkXQAOMJc7_8X2HD4t1R/s16000/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swotboysandy&label=Profile%20views&color=0e75b6&style=flat" alt="swotboysandy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/swotboysandy" target="blank"><img src="https://img.shields.io/twitter/follow/swotboysandy?logo=twitter&style=for-the-badge" alt="swotboysandy" /></a> </p>
