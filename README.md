@@ -45,7 +45,7 @@ I'm a passionate **Web Developer** from India specializing in WordPress, Laravel
 - **Master of Computer Applications (MCA) – Ongoing**  
   - Vellore Institute of Technology (VIT), Chennai *(2025 – 2027 Expected)*  
 - **BCA (Bachelor of Computer Applications)**  
-  - MGM College of IT & Management, Patna *(2024 – Degree pending)*  
+  - MGM College of IT & Management, Patna *(2024)*  
 - **Intermediate Science**  
   - AN College, Patna *(2021)*  
 - **Matriculation**  
