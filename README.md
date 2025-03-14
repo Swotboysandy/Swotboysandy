@@ -1,37 +1,81 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg596JLP2KNbVCXTHmz8ib52diI4mKJeftQNc3_PSy7JCwveDSxhbZs02Cn3pqn4uCauNm7wjhOCttg7Mx-S8mBqd2QZlnCmTldHMI_terJKo-n6kXpEl8eW8QW4k1eh4jKDhcHZyVd2AggJR1pg9-k1cI8OcaPEj2dwbD1pW8c6D5JowZKJovsy8soaCbh/s16000/SwotboySandygt.png)](https://pracandify.blogspot.com/)
-<h1 align="center">Hey👋, I'm Swotboysandy</h1>
-<h3 align="center">A dedicated coder translating concepts into seamless digital realities through elegant and efficient code.</h3>
-<div align="center">
-<img align="center" alt="Coding" width="500" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq7WKQwsP_sqnrVc1ykpSfKKjEo6tdVF5LyXHtsJELvtk9w92Dlzyo80roGUnrxA4d50RauoKy9_XcbXPSQr1eTnHDFk6JMtBvY1RxpVb3HQVRNFHX0hQpt6l6d8fBVSstPOpGysF89PSDLODhkOnhR9rREq5uU7YQFdR-hby7fkXQAOMJc7_8X2HD4t1R/s16000/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif">
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swotboysandy&label=Profile%20views&color=0e75b6&style=flat" alt="swotboysandy" /> </p>
+# Hi, I'm Sunny Kishor Singh 👋
 
-<p align="left"> <a href="https://twitter.com/swotboysandy" target="blank"><img src="https://img.shields.io/twitter/follow/swotboysandy?logo=twitter&style=for-the-badge" alt="swotboysandy" /></a> </p>
+I'm a passionate **Web Developer** from India specializing in WordPress, Laravel, and front-end development. I love solving problems with a mix of AI, research, and a collaborative spirit—whether I'm freelancing or working in a corporate setting.
 
-- 🔭 I’m currently working on **Parallax Website**
+---
 
-- 🌱 I’m currently learning **C++ and JavaScript**
+## 🔧 Work Experience
 
-- 📝 I regularly write articles on [https://pracandify.blogspot.com/](https://pracandify.blogspot.com/)
+### Web Developer | Sukan (Netherlands)
+*Nov 2023 – Present*
 
-- 💬 Ask me about **Graphic Designs or Games ;)**
+- Developed and maintained business websites including e-commerce, service-based, and product-based platforms.
+- Implemented custom functionalities like appointment booking systems and online stores.
+- Diagnosed and resolved PHP and WordPress issues to enhance performance.
+- Optimized website speed and security with caching, CDN, and SSL configurations.
+- Improved mobile responsiveness and UI/UX using CSS and JavaScript.
+- Collaborated with international clients to deliver custom solutions.
+- Integrated third-party APIs for payment gateways and CRM systems.
 
-- 📫 How to reach me **swotboysandy@gmail.com**
+### Freelance Web Developer
+*2021 – 2023*
 
-- ⚡ Fun fact **I Don't F'kin Care**
+- Designed and developed e-commerce and business websites for various clients.
+- Built a custom saree e-commerce platform with tailored UI/UX, branding, and SEO optimization.
+- Developed sites using WordPress, WooCommerce, and Laravel for business automation.
+- Enhanced SEO by implementing structured data, meta tags, and keyword strategies.
+- Provided long-term maintenance and troubleshooting to ensure smooth functionality.
+- Guided small business owners through digital transformation from offline to online sales.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/swotboysandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swotboysandy" height="30" width="40" /></a>
-<a href="https://instagram.com/i_d0nt_f_care_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_d0nt_f_care_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/swotboysandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swotboysandy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/swotboysandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swotboysandy" height="30" width="40" /></a>
-<a href="https://discord.gg/7zu8GXDp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7zu8GXDp" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 💻 Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swotboysandy&show_icons=true&locale=en&layout=compact" alt="swotboysandy" /></p>
+- **WordPress:** Theme Customization, Elementor, WooCommerce, Custom Functionalities
+- **PHP & Laravel:** Basic development with AI-assisted problem-solving
+- **Front-End:** HTML, CSS, JavaScript (basic level)
+- **UI/UX:** Photoshop, Canva (for banners & website design)
+- **Video Editing:** Premiere Pro, After Effects
+- **3D Design:** Maya, Blender, Cinema 4D
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swotboysandy&show_icons=true&locale=en" alt="swotboysandy" /></p>
+---
+
+## 🎓 Education
+
+- **BCA (Bachelor of Computer Applications)**
+  - MGM College of IT & Management, Patna *(2024 – Degree pending)*
+- **Intermediate Science**
+  - AN College, Patna *(2021)*
+- **Matriculation**
+  - Cambridge Public School, Patna *(2019)*
+
+---
+
+## 🚀 Strengths & Work Ethic
+
+- **Analytical:** Structured problem-solver tackling technical challenges.
+- **Quick Learner:** Adapts swiftly to new technologies and tools.
+- **Team-Oriented:** Excels in collaboration and takes initiative in leadership.
+- **Detail-Oriented:** Delivers high-quality work with a focus on performance and security.
+- **Adaptable:** Thrives in fast-paced environments and keeps up with industry trends.
+
+---
+
+## 🎯 Interests
+
+- Watching movies & series
+- Gaming (a passion, though now a bit limited)
+- Exploring new technologies
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub:** [Swotboysandy](https://github.com/Swotboysandy)
+- **LinkedIn:** [s7-chauhan](https://www.linkedin.com/in/s7-chauhan/)
+- **Email:** [sunnysinghchauhan760@gmail.com](mailto:sunnysinghchauhan760@gmail.com)
+- **Phone:** +91 7667486824
+
+---
+
+Thanks for stopping by! I'm always excited to connect with fellow developers and explore new opportunities. Feel free to reach out!
