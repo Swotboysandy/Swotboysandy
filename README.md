@@ -76,7 +76,6 @@ I'm a passionate **Web Developer** from India specializing in WordPress, Laravel
 - **GitHub:** [Swotboysandy](https://github.com/Swotboysandy)
 - **LinkedIn:** [s7-chauhan](https://www.linkedin.com/in/s7-chauhan/)
 - **Email:** [sunnysinghchauhan760@gmail.com](mailto:sunnysinghchauhan760@gmail.com)
-- **Phone:** +91 7667486824
 
 ---
 
