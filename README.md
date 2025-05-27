@@ -4,7 +4,7 @@ I'm a **Web Developer** from India specializing in WordPress, Laravel, and front
 
 ---
 
-## 🔧 Work Experience
+## Work Experience
 
 ### Web Developer | Sukan (Netherlands)
 *Nov 2023 – Present*
@@ -29,7 +29,7 @@ I'm a **Web Developer** from India specializing in WordPress, Laravel, and front
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 - **WordPress:** Theme Customization, Elementor, WooCommerce, Custom Functionalities
 - **PHP & Laravel:** Basic development with AI-assisted problem-solving
@@ -40,7 +40,7 @@ I'm a **Web Developer** from India specializing in WordPress, Laravel, and front
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Master of Computer Applications (MCA) – Ongoing**  
   - Vellore Institute of Technology (VIT), Chennai *(2025 – 2027 Expected)*  
@@ -53,7 +53,7 @@ I'm a **Web Developer** from India specializing in WordPress, Laravel, and front
 
 ---
 
-## 🚀 Strengths & Work Ethic
+## Strengths & Work Ethic
 
 - **Analytical:** Structured problem-solver tackling technical challenges.
 - **Quick Learner:** Adapts swiftly to new technologies and tools.
@@ -63,7 +63,7 @@ I'm a **Web Developer** from India specializing in WordPress, Laravel, and front
 
 ---
 
-## 🎯 Interests
+## Interests
 
 - Watching movies & series
 - Gaming (a passion, though now a bit limited)
@@ -71,7 +71,7 @@ I'm a **Web Developer** from India specializing in WordPress, Laravel, and front
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - **GitHub:** [Swotboysandy](https://github.com/Swotboysandy)
 - **LinkedIn:** [s7-chauhan](https://www.linkedin.com/in/s7-chauhan/)
