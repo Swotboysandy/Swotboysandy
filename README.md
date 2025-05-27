@@ -1,6 +1,6 @@
 # Hi, I'm Sunny Kishor Singh 👋
 
-I'm a passionate **Web Developer** from India specializing in WordPress, Laravel, and front-end development. I love solving problems with a mix of AI, research, and a collaborative spirit—whether I'm freelancing or working in a corporate setting.
+I'm a **Web Developer** from India specializing in WordPress, Laravel, and front-end development. I love solving problems with a mix of AI, research, and a collaborative spirit—whether I'm freelancing or working in a corporate setting.
 
 ---
 
