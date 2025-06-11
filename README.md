@@ -30,12 +30,12 @@ Still, through all the errors, bugs, and unexpected side effects, he’s slowly 
 
 Want to see the battlefield?  
 Here’s the site where he pretends to have it all figured out:  
-🌐 [sunny-kishor-singh.vercel.app](https://sunny-kishor-singh.vercel.app/)
+🌐 [Can say Portfolio](https://sunny-kishor-singh.vercel.app/)
 
 ---
 
 ## 📱 Socials
 
-[📷 Instagram: @i_d0nt_f_care_](https://www.instagram.com/i_d0nt_f_care_/)
+[📷 Instagram](https://www.instagram.com/i_d0nt_f_care_/)
 
 ---
