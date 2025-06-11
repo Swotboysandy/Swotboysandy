@@ -43,6 +43,6 @@ Here’s the site where he pretends to have it all figured out:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnysingh&theme=tokyonight)
 
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sunnysingh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnysingh&theme=tokyo-night)
 
 </details>
