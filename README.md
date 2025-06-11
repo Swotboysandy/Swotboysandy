@@ -1,6 +1,6 @@
-# Hi, I'm Sunny Singh ☀️
+# Hi, I'm Sunny☀️
 
-## 🧠 About Me
+##About Me
 
 Once upon a time, a guy named Sunny decided to learn programming.  
 Not because he wanted to become a tech wizard or make billions (though that wouldn’t hurt), but because he thought JavaScript sounded cool.  
@@ -22,11 +22,11 @@ Some call it pain. He calls it purpose.
 
 Still, through all the errors, bugs, and unexpected side effects, he’s slowly learning — one `console.log()` at a time.
 
-## 🔗 Portfolio
+## Portfolio
 
 Want to see the battlefield?  
 Here’s the site where he pretends to have it all figured out:  
-🌐 [Can say Portfolio](https://sunny-kishor-singh.vercel.app/)
+🌐 [Here! Here!](https://sunny-kishor-singh.vercel.app/)
 
 ## 📱 Socials
 
