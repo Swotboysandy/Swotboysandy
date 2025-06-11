@@ -1,6 +1,6 @@
 # Hi, I'm Sunny☀️
 
-##About Me
+## About Me
 
 Once upon a time, a guy named Sunny decided to learn programming.  
 Not because he wanted to become a tech wizard or make billions (though that wouldn’t hurt), but because he thought JavaScript sounded cool.  
