@@ -1,7 +1,5 @@
 # Hi, I'm Sunny Singh ☀️
 
----
-
 ## 🧠 About Me
 
 Once upon a time, a guy named Sunny decided to learn programming.  
@@ -24,18 +22,18 @@ Some call it pain. He calls it purpose.
 
 Still, through all the errors, bugs, and unexpected side effects, he’s slowly learning — one `console.log()` at a time.
 
----
-
 ## 🔗 Portfolio
 
 Want to see the battlefield?  
 Here’s the site where he pretends to have it all figured out:  
 🌐 [Can say Portfolio](https://sunny-kishor-singh.vercel.app/)
 
----
 
 ## 📱 Socials
 
 [📷 Instagram](https://www.instagram.com/i_d0nt_f_care_/)
 
----
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnysingh&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnysingh&theme=tokyonight)
