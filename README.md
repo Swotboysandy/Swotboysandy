@@ -39,7 +39,7 @@ Here’s the site where he pretends to have it all figured out:
 
 ![Visitors](https://komarev.com/ghpvc/?username=sunnysingh&label=Profile%20views&color=0e75b6&style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysingh&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysingh&layout=compact&theme=tokyonight&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnysingh&theme=tokyonight)
 
