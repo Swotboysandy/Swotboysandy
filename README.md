@@ -1,82 +1,41 @@
-# Hi, I'm Sunny Kishor Singh 👋
-
-I'm a **Web Developer** from India specializing in WordPress, Laravel, and front-end development. I love solving problems with a mix of AI, research, and a collaborative spirit—whether I'm freelancing or working in a corporate setting.
+# Hi there, I’m Sunny Singh ☀️  
 
 ---
 
-## Work Experience
+## 🧠 About Me
 
-### Web Developer | Sukan (Netherlands)
-*Nov 2023 – Present*
+Every day I wake up and choose violence — against JavaScript bugs, mysterious database errors, and algorithms that act like they have a personal grudge against me.
 
-- Developed and maintained business websites including e-commerce, service-based, and product-based platforms.
-- Implemented custom functionalities like appointment booking systems and online stores.
-- Diagnosed and resolved PHP and WordPress issues to enhance performance.
-- Optimized website speed and security with caching, CDN, and SSL configurations.
-- Improved mobile responsiveness and UI/UX using CSS and JavaScript.
-- Collaborated with international clients to deliver custom solutions.
-- Integrated third-party APIs for payment gateways and CRM systems.
+I'm not a developer... I'm a survivor.  
+Surviving async nightmares, SQL mood swings, and the emotional damage caused by that one missing bracket.  
 
-### Freelance Web Developer
-*2021 – 2023*
-
-- Designed and developed e-commerce and business websites for various clients.
-- Built a custom saree e-commerce platform with tailored UI/UX, branding, and SEO optimization.
-- Developed sites using WordPress, WooCommerce, and Laravel for business automation.
-- Enhanced SEO by implementing structured data, meta tags, and keyword strategies.
-- Provided long-term maintenance and troubleshooting to ensure smooth functionality.
-- Guided small business owners through digital transformation from offline to online sales.
+Right now, I'm somewhere between understanding recursion and rewriting the same function for the third time — and honestly, I’m just eating or liking everything that comes in my way 🍕💻.
 
 ---
 
-## Technical Skills
+## ⚔️ The Journey So Far
 
-- **WordPress:** Theme Customization, Elementor, WooCommerce, Custom Functionalities
-- **PHP & Laravel:** Basic development with AI-assisted problem-solving
-- **Front-End:** HTML, CSS, JavaScript (basic level)
-- **UI/UX:** Photoshop, Canva (for banners & website design)
-- **Video Editing:** Premiere Pro, After Effects
-- **3D Design:** Maya, Blender, Cinema 4D
+Currently on a heroic quest to master JavaScript, wrestle with databases, and unlock the ancient scrolls of algorithms.
+
+There’s no map. No guide. Just me, a keyboard, and a stubborn belief that I can fix this bug without Googling it again (I can’t).
 
 ---
 
-## Education
-
-- **Master of Computer Applications (MCA) – Ongoing**  
-  - Vellore Institute of Technology (VIT), Chennai *(2025 – 2027 Expected)*  
-- **BCA (Bachelor of Computer Applications)**  
-  - MGM College of IT & Management, Patna *(2024)*  
-- **Intermediate Science**  
-  - AN College, Patna *(2021)*  
-- **Matriculation**  
-  - Cambridge Public School, Patna *(2019)* 
+## 🔗 Portfolio  
+Check out what I’ve built (and broken):  
+🌐 [sunny-kishor-singh.vercel.app](https://sunny-kishor-singh.vercel.app/)
 
 ---
 
-## Strengths & Work Ethic
+## 📈 GitHub Activity
 
-- **Analytical:** Structured problem-solver tackling technical challenges.
-- **Quick Learner:** Adapts swiftly to new technologies and tools.
-- **Team-Oriented:** Excels in collaboration and takes initiative in leadership.
-- **Detail-Oriented:** Delivers high-quality work with a focus on performance and security.
-- **Adaptable:** Thrives in fast-paced environments and keeps up with industry trends.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnysingh&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnysingh&theme=tokyonight)
 
 ---
 
-## Interests
-
-- Watching movies & series
-- Gaming (a passion, though now a bit limited)
-- Exploring new technologies
+## 📱 Socials  
+[📷 Instagram: @i_d0nt_f_care_](https://www.instagram.com/i_d0nt_f_care_/)
 
 ---
-
-## Connect with Me
-
-- **GitHub:** [Swotboysandy](https://github.com/Swotboysandy)
-- **LinkedIn:** [s7-chauhan](https://www.linkedin.com/in/s7-chauhan/)
-- **Email:** [sunnysinghchauhan760@gmail.com](mailto:sunnysinghchauhan760@gmail.com)
-
----
-
-Thanks for stopping by! I'm always excited to connect with fellow developers and explore new opportunities. Feel free to reach out!
