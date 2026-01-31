@@ -18,6 +18,5 @@ Here’s the site where he pretends to have it all figured out:
 
 ### 📊 GitHub Stats & Activity
 
-![Visitors](https://komarev.com/ghpvc/?username=sunnysingh&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnysingh&theme=tokyo-night)
-![GitHub Contribution Graph](https://ghchart.rshah.org/sunnysingh)
+![Visitors](https://komarev.com/ghpvc/?username=Swotboysandy&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Contribution Graph](https://ghchart.rshah.org/Swotboysandy)
