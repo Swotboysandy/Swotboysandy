@@ -1,4 +1,4 @@
-    # Hi, I'm Sunny ☀️
+# Hi, I'm Sunny ☀️
 
 📍 **Building in public** | 💻 **JavaScript enthusiast** | 🚀 **Learning by shipping**
 
