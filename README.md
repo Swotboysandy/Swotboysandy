@@ -13,7 +13,7 @@
 
 ## Current Projects
 
-- 📸 **[InstaLaz](https://github.com/Swotboysandy/instalaz)** - Instagram video downloader built with modern web tech. Clean UI, fast downloads, zero BS.
+- **[InstaLaz](https://github.com/Swotboysandy/instalaz)** - Automate Instagram posts across multiple accounts with smart scheduling and Telegram notifications.
 
 ## What I'm Building
 
