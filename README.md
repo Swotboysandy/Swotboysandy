@@ -30,7 +30,6 @@ Check out the collection:
 
 ## Connect
 
-[![Instagram](https://img.shields.io/badge/-@i__d0nt__f__care__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/i_d0nt_f_care_/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Swotboysandy)
 
 ## GitHub Activity
