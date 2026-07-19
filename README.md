@@ -46,8 +46,4 @@
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Swotboysandy)
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Swotboysandy)
-
 > **Ship beats perfect.** Build, learn, improve.
