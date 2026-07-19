@@ -34,7 +34,7 @@
 
 ## Projects
 
-- **InstaLaz** — Automates Instagram posting across multiple accounts with scheduling and Telegram notifications.
+- **InstaLaz** — Automates Social posting across multiple accounts with scheduling and something special (wont share unless you'll take a membership).
 - **Fresta** — A highlight-generation app for turning longer content into concise, shareable moments.
 - **GACA** — A gaming montage creator for competitive gamers, content creators, and esports players.
 
