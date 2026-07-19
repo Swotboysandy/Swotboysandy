@@ -34,7 +34,7 @@
 
 ## Projects
 
-- **[InstaLaz](http://app-instalaz.vercel.app/)** — Schedule and automate social posting across multiple accounts with smart scheduling, plus a few member-only features you'll have to discover yourself.
+- **[Instalaz](http://app-instalaz.vercel.app/)** — Schedule and automate social posting across multiple accounts with smart scheduling, plus a few member-only features you'll have to discover yourself.
 - **Fresta** — A highlight-generation app for turning longer content into concise, shareable moments.
 - **GACA** — A gaming montage creator for competitive gamers, content creators, and esports players.
 
