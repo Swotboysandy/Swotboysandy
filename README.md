@@ -1,29 +1,28 @@
-                                                                          
-                                                                     
-                                                                                  
-                                                  .-*#%%@@%#=::+**+:              
-                                                +**+=--==++++*%#-::               
-                                              =+--++=--:::...:=-+*-               
-                                             :+:        .====-. -:=+              
-                                             --::.:=-:::..........-:+             
-                                             .:::-:.  ..   ...  ...::+            
-                                             =--        .::     ...:::=           
-                                                                  .::-=.          
-                                                                    .--=          
-                                                                     --=          
-                                                                     :--          
-                                                                     .--          
-                                                                    .::.          
-                                                                 .:..  :-         
-                                                                    ... .-        
-                                                                         ..       
-                                                                                           
-                                                                                           
-                                             
+<div align="center">
+
+<pre>                                         
+             .-*#%%@@%#=::+**+:              
+           +**+=--==++++*%#-::               
+         =+--++=--:::...:=-+*-               
+        :+:        .====-. -:=+              
+        --::.:=-:::..........-:+             
+        .:::-:.  ..   ...  ...::+            
+        =--        .::     ...:::=           
+                             .::-=.          
+                               .--=          
+                                --=          
+                                :--          
+                                .--          
+                               .::.          
+                            .:..  :-         
+                               ... .-        
+                                    ..       
+                                                                                      
+</pre>
 
 # Hi, I'm Sunny ☀️
 
-**Building in public** | **JavaScript enthusiast** | **Learning by shipping**
+**JavaScript developer building useful products in public.**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -31,25 +30,17 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
+</div>
 
-> "Learning by breaking things, one commit at a time."
+## Projects
 
-## Current Projects
-
-- **[InstaLaz](https://github.com/Swotboysandy/instalaz)** - Automate Instagram posts across multiple accounts with smart scheduling and Telegram notifications.
-
-## What I'm Building
-
-- **Shipping products** - Learning by doing, not just tutorial hell
-- **JavaScript ecosystem** - React, Node.js, and everything in between
-- **Real-world solutions** - Tools that solve actual problems
-- **Clean code practices** - Writing code that doesn't make me cry six months later
+- **InstaLaz** — Automates Instagram posting across multiple accounts with scheduling and Telegram notifications.
+- **Fresta** — A highlight-generation app for turning longer content into concise, shareable moments.
+- **GACA** — A gaming montage creator for competitive gamers, content creators, and esports players.
 
 ## Portfolio
 
-Want to see what I've built?  
-Check out the collection:  
-🌐 **[sunny-kishor-singh.vercel.app](https://sunny-kishor-singh.vercel.app/)**
+**[sunny-kishor-singh.vercel.app](https://sunny-kishor-singh.vercel.app/)**
 
 ## Connect
 
@@ -59,18 +50,4 @@ Check out the collection:
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Swotboysandy)
 
----
-
-### Philosophy
-
-> "Ship beats perfect" - I build to learn, learn to build better. Still figuring it out, one project at a time.
-
-<details>
-<summary>Current Status</summary>
-
-- 🔨 Building with JavaScript/TypeScript
-- 📚 Learning through real projects
-- 🐛 Making mistakes and fixing them
-- ☕ Powered by caffeine and Stack Overflow
-
-</details>
+> **Ship beats perfect.** Build, learn, improve.
