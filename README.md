@@ -22,7 +22,7 @@
 
 # Hi, I'm Sunny ☀️
 
-**JavaScript developer building useful products in public.**
+**JavaScript developer building useful products in public at [Pracandy](https://pracandy.com).**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -32,11 +32,15 @@
 
 </div>
 
-## Projects
+## Products
 
-- **[Instalaz](http://app-instalaz.vercel.app/)** — Schedule and automate social posting across multiple accounts with smart scheduling, plus a few member-only features you'll have to discover yourself.
-- **Fresta** — A highlight-generation app for turning longer content into concise, shareable moments.
-- **GACA** — A gaming montage creator for competitive gamers, content creators, and esports players.
+- **[GamingCap](https://gamingcap.pracandy.com)**: AI highlight and montage software for BGMI and PUBG Mobile on Windows. It finds your kills and turns them into a montage.
+- **[Invoiceful](https://invoice.pracandy.com)**: A free online invoice generator, with GST support for India.
+- **[PracandyWalls](https://walls.pracandy.com)**: HD, 4K and AMOLED wallpapers for Android.
+- **[PracandyFlix](https://flix.pracandy.com)**: Movie and series news, trailers, release dates and where to watch.
+- **[Instalaz](https://instalaz.pracandy.com)**: Schedule and automate Instagram posting across multiple accounts. Launching soon.
+
+Everything lives at **[pracandy.com](https://pracandy.com)**.
 
 ## Portfolio
 
