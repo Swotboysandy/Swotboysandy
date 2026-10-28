@@ -1,38 +1,34 @@
-<div align="center">
+<h1 align="center">Sunny</h1>
 
-<pre>                                         
-             .-*#%%@@%#=::+**+:              
-           +**+=--==++++*%#-::               
-         =+--++=--:::...:=-+*-               
-        :+:        .====-. -:=+              
-        --::.:=-:::..........-:+             
-        .:::-:.  ..   ...  ...::+            
-        =--        .::     ...:::=           
-                             .::-=.          
-                               .--=          
-                                --=          
-                                :--          
-                                .--          
-                               .::.          
-                            .:..  :-         
-                               ... .-        
-                                    ..       
-                                                                                      
-</pre>
+<p align="center">
+  <strong>JavaScript developer &amp; founder of <a href="https://pracandy.com">Pracandy</a></strong>
+</p>
 
-# Hi, I'm Sunny ☀️
+<p align="center">
+  Building practical products for creators, businesses, and everyday life.
+</p>
 
-**JavaScript developer building useful products in public at [Pracandy](https://pracandy.com).**
+<p align="center">
+  <a href="https://pracandy.com"><strong>Explore my products</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://sunny-kishor-singh.vercel.app/"><strong>Portfolio</strong></a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-24292f?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-24292f?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-24292f?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-24292f?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-24292f?style=flat-square&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" />
+</p>
 
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Swotboysandy/badge.svg)](https://hub.xerj.org/contributors/Swotboysandy)
+<p align="center">
+  <a href="https://hub.xerj.org/contributors/Swotboysandy">
+    <img src="https://hub.xerj.org/contributors/Swotboysandy/badge.svg" alt="XERJ Corpus Hub contributor" />
+  </a>
+</p>
 
-</div>
+---
 
 ## Products
 
