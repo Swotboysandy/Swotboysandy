@@ -47,7 +47,7 @@
   <br /><sub>Android wallpapers</sub>
 </td>
 <td align="center" width="170" valign="top">
-  <a href="https://anyway.pracandy.com"><img src="assets/anyway.svg" width="28" height="28" alt="Anyway logo" /></a>
+  <a href="https://anyway.pracandy.com"><img src="https://anyway.pracandy.com/mascot/anyway-face-240.webp" width="36" height="36" alt="Anyway mascot" /></a>
   <br /><strong><a href="https://anyway.pracandy.com">Anyway</a></strong>
   <br /><sub>Student planner</sub>
 </td>
