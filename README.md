@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/studio-dark.svg" />
-    <img src="assets/studio-light.svg" width="840" alt="Sunny — independent developer at Pracandy. One developer. A growing collection of useful tools." />
+    <img src="assets/studio-light.svg" width="700" alt="Sunny — independent developer at Pracandy. One developer. A growing collection of useful tools." />
   </picture>
 </p>
 
@@ -19,67 +19,47 @@
 <div align="center">
 <table align="center">
 <tr>
-<td align="center" width="340">
-  <br />
-  <a href="https://fresta.pracandy.com"><img src="assets/fresta.svg" width="36" height="36" alt="Fresta logo" /></a>
-  <h3><a href="https://fresta.pracandy.com">Fresta</a></h3>
-  <p>Long videos. Fresh Shorts.</p>
-  <br />
+<td align="center" width="170" valign="top">
+  <a href="https://fresta.pracandy.com"><img src="assets/fresta.svg" width="28" height="28" alt="Fresta logo" /></a>
+  <br /><strong><a href="https://fresta.pracandy.com">Fresta</a></strong>
+  <br /><sub>YouTube Shorts</sub>
 </td>
-<td align="center" width="340">
-  <br />
-  <a href="https://gamingcap.pracandy.com"><img src="assets/gamingcap.png" width="36" height="36" alt="GamingCap logo" /></a>
-  <h3><a href="https://gamingcap.pracandy.com">GamingCap</a></h3>
-  <p>Your gameplay, cut into montages.</p>
-  <br />
+<td align="center" width="170" valign="top">
+  <a href="https://gamingcap.pracandy.com"><img src="assets/gamingcap.png" width="28" height="28" alt="GamingCap logo" /></a>
+  <br /><strong><a href="https://gamingcap.pracandy.com">GamingCap</a></strong>
+  <br /><sub>Gameplay montages</sub>
 </td>
-</tr>
-<tr>
-<td align="center" width="340">
-  <br />
-  <a href="https://instalaz.pracandy.com"><img src="assets/instalaz.png" width="36" height="36" alt="Instalaz logo" /></a>
-  <h3><a href="https://instalaz.pracandy.com">Instalaz</a></h3>
-  <p>Instagram posts, planned ahead.</p>
-  <br />
+<td align="center" width="170" valign="top">
+  <a href="https://instalaz.pracandy.com"><img src="assets/instalaz.png" width="28" height="28" alt="Instalaz logo" /></a>
+  <br /><strong><a href="https://instalaz.pracandy.com">Instalaz</a></strong>
+  <br /><sub>Instagram scheduling</sub>
 </td>
-<td align="center" width="340">
-  <br />
-  <a href="https://invoice.pracandy.com"><img src="assets/invoice.png" width="36" height="36" alt="Invoiceful logo" /></a>
-  <h3><a href="https://invoice.pracandy.com">Invoiceful</a></h3>
-  <p>Invoices for your business.</p>
-  <br />
+<td align="center" width="170" valign="top">
+  <a href="https://invoice.pracandy.com"><img src="assets/invoice.png" width="28" height="28" alt="Invoiceful logo" /></a>
+  <br /><strong><a href="https://invoice.pracandy.com">Invoiceful</a></strong>
+  <br /><sub>Business invoices</sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="340">
-  <br />
-  <a href="https://walls.pracandy.com"><img src="assets/walls.svg" width="36" height="36" alt="PracandyWalls logo" /></a>
-  <h3><a href="https://walls.pracandy.com">PracandyWalls</a></h3>
-  <p>A fresh look for your Android.</p>
-  <br />
+<td align="center" width="170" valign="top">
+  <a href="https://walls.pracandy.com"><img src="assets/walls.svg" width="28" height="28" alt="PracandyWalls logo" /></a>
+  <br /><strong><a href="https://walls.pracandy.com">PracandyWalls</a></strong>
+  <br /><sub>Android wallpapers</sub>
 </td>
-<td align="center" width="340">
-  <br />
-  <a href="https://anyway.pracandy.com"><img src="assets/anyway.svg" width="36" height="36" alt="Anyway logo" /></a>
-  <h3><a href="https://anyway.pracandy.com">Anyway</a></h3>
-  <p>A little more order to student life.</p>
-  <br />
+<td align="center" width="170" valign="top">
+  <a href="https://anyway.pracandy.com"><img src="assets/anyway.svg" width="28" height="28" alt="Anyway logo" /></a>
+  <br /><strong><a href="https://anyway.pracandy.com">Anyway</a></strong>
+  <br /><sub>Student planner</sub>
 </td>
-</tr>
-<tr>
-<td align="center" width="340">
-  <br />
-  <a href="https://flix.pracandy.com"><img src="assets/flix.svg" width="36" height="36" alt="PracandyFlix logo" /></a>
-  <h3><a href="https://flix.pracandy.com">PracandyFlix</a></h3>
-  <p>Your next movie or show starts here.</p>
-  <br />
+<td align="center" width="170" valign="top">
+  <a href="https://flix.pracandy.com"><img src="assets/flix.svg" width="28" height="28" alt="PracandyFlix logo" /></a>
+  <br /><strong><a href="https://flix.pracandy.com">PracandyFlix</a></strong>
+  <br /><sub>Movie &amp; show guides</sub>
 </td>
-<td align="center" width="340">
-  <br />
-  <a href="https://pracandy.com"><img src="assets/studio.svg" width="36" height="36" alt="Pracandy logo" /></a>
-  <h3><a href="https://pracandy.com">Pracandy</a></h3>
-  <p>The studio behind it all.</p>
-  <br />
+<td align="center" width="170" valign="top">
+  <a href="https://pracandy.com"><img src="assets/studio.svg" width="28" height="28" alt="Pracandy logo" /></a>
+  <br /><strong><a href="https://pracandy.com">Pracandy</a></strong>
+  <br /><sub>My indie studio</sub>
 </td>
 </tr>
 </table>
