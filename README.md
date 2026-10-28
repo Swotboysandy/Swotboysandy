@@ -1,9 +1,6 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/studio-dark.svg" />
-    <img src="assets/studio-light.svg" width="700" alt="Sunny — independent developer at Pracandy. One developer. A growing collection of useful tools." />
-  </picture>
-</p>
+<h1 align="center">Hi, I'm Sunny</h1>
+
+<p align="center"><strong>Ship beats perfect. Build, learn, improve.</strong></p>
 
 <p align="center">
   <a href="https://pracandy.com"><strong>Explore Pracandy</strong></a>
@@ -92,4 +89,4 @@
 </p>
 
 <hr />
-<p align="center"><sub>Ship beats perfect. Build, learn, improve.</sub></p>
+
