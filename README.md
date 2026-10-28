@@ -36,16 +36,24 @@
 
 ## Products
 
-- **[GamingCap](https://gamingcap.pracandy.com)**: AI highlight and montage software for BGMI and PUBG Mobile on Windows. It finds your kills and turns them into a montage.
-- **[Invoiceful](https://invoice.pracandy.com)**: A free online invoice generator, with GST support for India.
-- **[PracandyWalls](https://walls.pracandy.com)**: HD, 4K and AMOLED wallpapers for Android.
-- **[PracandyFlix](https://flix.pracandy.com)**: Movie and series news, trailers, release dates and where to watch.
-- **[Instalaz](https://instalaz.pracandy.com)**: Schedule and automate Instagram posting across multiple accounts. Launching soon.
+I build and ship practical tools at **[Pracandy](https://pracandy.com)**, my solo indie studio.
 
-Everything lives at **[pracandy.com](https://pracandy.com)**.
+| Product | What it helps you do |
+| :--- | :--- |
+| **[Fresta](https://fresta.pracandy.com)** | Turn long videos into YouTube Shorts. |
+| **[GamingCap](https://gamingcap.pracandy.com)** | Turn gameplay highlights into montages. |
+| **[Instalaz](https://instalaz.pracandy.com)** | Plan and schedule Instagram posts. |
+| **[Invoiceful](https://invoice.pracandy.com)** | Create invoices for your business. |
+| **[PracandyWalls](https://walls.pracandy.com)** | Find your next Android wallpaper. |
+| **[Anyway](https://anyway.pracandy.com)** | Organize your student life with a planner. |
+| **[PracandyFlix](https://flix.pracandy.com)** | Explore movie and show guides. |
 
-## Portfolio
+---
 
-**[sunny-kishor-singh.vercel.app](https://sunny-kishor-singh.vercel.app/)**
+<p align="center">
+  <a href="https://pracandy.com"><strong>Explore Pracandy</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://sunny-kishor-singh.vercel.app/"><strong>View my portfolio</strong></a>
+</p>
 
-> **Ship beats perfect.** Build, learn, improve.
+<p align="center"><em>Ship beats perfect. Build, learn, improve.</em></p>
