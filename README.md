@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sunny</h1>
+<p align="center"><strong>Hi, I'm Sunny</strong></p>
 
 <p align="center"><strong>Ship beats perfect. Build, learn, improve.</strong></p>
 
