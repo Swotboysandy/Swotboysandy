@@ -30,19 +30,50 @@
 
 ---
 
-## Products
+<h2 align="center">Products</h2>
 
-I build and ship practical tools at **[Pracandy](https://pracandy.com)**, my solo indie studio.
+<p align="center">I build and ship practical tools at <strong><a href="https://pracandy.com">Pracandy</a></strong>, my solo indie studio.</p>
 
-| Product | What it helps you do |
-| :--- | :--- |
-| **[Fresta](https://fresta.pracandy.com)** | Turn long videos into YouTube Shorts. |
-| **[GamingCap](https://gamingcap.pracandy.com)** | Turn gameplay highlights into montages. |
-| **[Instalaz](https://instalaz.pracandy.com)** | Plan and schedule Instagram posts. |
-| **[Invoiceful](https://invoice.pracandy.com)** | Create invoices for your business. |
-| **[PracandyWalls](https://walls.pracandy.com)** | Find your next Android wallpaper. |
-| **[Anyway](https://anyway.pracandy.com)** | Organize your student life with a planner. |
-| **[PracandyFlix](https://flix.pracandy.com)** | Explore movie and show guides. |
+<div align="center">
+<table align="center" role="table">
+<thead>
+<tr>
+<th align="left">Product</th>
+<th align="left">What it helps you do</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong><a href="https://fresta.pracandy.com" rel="nofollow">Fresta</a></strong></td>
+<td align="left">Turn long videos into YouTube Shorts.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="https://gamingcap.pracandy.com" rel="nofollow">GamingCap</a></strong></td>
+<td align="left">Turn gameplay highlights into montages.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="https://instalaz.pracandy.com" rel="nofollow">Instalaz</a></strong></td>
+<td align="left">Plan and schedule Instagram posts.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="https://invoice.pracandy.com" rel="nofollow">Invoiceful</a></strong></td>
+<td align="left">Create invoices for your business.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="https://walls.pracandy.com" rel="nofollow">PracandyWalls</a></strong></td>
+<td align="left">Find your next Android wallpaper.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="https://anyway.pracandy.com" rel="nofollow">Anyway</a></strong></td>
+<td align="left">Organize your student life with a planner.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="https://flix.pracandy.com" rel="nofollow">PracandyFlix</a></strong></td>
+<td align="left">Explore movie and show guides.</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 
