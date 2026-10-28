@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Pracandy</title>
+  <desc id="desc">A white chevron on a dark navy rounded tile.</desc>
+  <rect width="64" height="64" rx="14" fill="#0f1c31"/>
+  <path d="M28.6 16h6.8L50 48h-9.6L32 29.2 23.6 48H14Z" fill="#eef4ff"/>
+</svg>

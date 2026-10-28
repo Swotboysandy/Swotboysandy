@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="310" viewBox="0 0 840 310" role="img" aria-labelledby="title desc">
+<title id="title">Sunny — independent developer and founder of Pracandy</title>
+<desc id="desc">One developer. A growing collection of useful tools. A line connects a video frame, game controller, invoice, and wallpaper.</desc>
+<rect width="840" height="310" rx="18" fill="#ffffff"/>
+<g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+<text x="420" y="41" fill="#576779" font-size="12">INDEPENDENT DEVELOPER · PRACANDY</text>
+<text x="420" y="111" fill="#172438" font-size="58" font-weight="700">Sunny</text>
+<text x="420" y="153" fill="#172438" font-size="21">One developer. A growing collection of useful tools.</text>
+<text x="420" y="183" fill="#576779" font-size="15">Thoughtfully built. Made to be used.</text>
+</g>
+<path d="M152 246H688" fill="none" stroke="#d5dfeb" stroke-width="1.5"/>
+<g fill="#ffffff" stroke="#d5dfeb" stroke-width="1.5"><rect x="180" y="218" width="64" height="56" rx="12"/><rect x="318" y="218" width="64" height="56" rx="12"/><rect x="458" y="218" width="64" height="56" rx="12"/><rect x="596" y="218" width="64" height="56" rx="12"/></g>
+<g fill="none" stroke="#2463b9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+<rect x="195" y="234" width="34" height="24" rx="4"/><path d="m208 240 10 6-10 6z"/>
+<path d="M338 235h24c5 0 10 22 4 23-4 1-7-6-10-6h-12c-3 0-6 7-10 6-6-1-1-23 4-23zM340 240v8m-4-4h8"/><circle cx="358" cy="242" r="1"/><circle cx="363" cy="247" r="1"/>
+<path d="M480 230h20v32l-5-3-5 3-5-3-5 3zM485 238h10m-10 6h10m-10 6h6"/>
+<rect x="613" y="231" width="30" height="30" rx="4"/><path d="m615 255 9-9 7 7 5-5 6 7"/><circle cx="634" cy="240" r="2"/>
+</g><g fill="#2463b9"><circle cx="152" cy="246" r="3"/><circle cx="688" cy="246" r="3"/></g></svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">pracandyFlix mark</title>
+  <desc id="desc">A pink cinematic X with a yellow play symbol on dark plum.</desc>
+  <rect width="64" height="64" rx="14" fill="#280026"/>
+  <path d="M15 12h12l5 9 5-9h12L39 31l11 21H38l-6-11-6 11H14l11-21Z" fill="#ff0f66"/>
+  <path d="m29 25 10 7-10 7Z" fill="#ffcf00"/>
+</svg>
