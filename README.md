@@ -1,6 +1,10 @@
-<h3 align="center">Hi, I'm Sunny</h3>
-
-<p align="center"><strong>Ship beats perfect. Build, learn, improve.</strong></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/greeting-dark.svg" />
+    <img src="assets/greeting-light.svg" width="300" height="40" alt="Hi, I'm Sunny" />
+  </picture><br />
+  <strong>Ship beats perfect. Build, learn, improve.</strong>
+</p>
 
 <p align="center">
   <a href="https://pracandy.com"><strong>Explore Pracandy</strong></a>
