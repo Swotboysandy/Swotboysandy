@@ -30,6 +30,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Swotboysandy/badge.svg)](https://hub.xerj.org/contributors/Swotboysandy)
+
 </div>
 
 ## Products
